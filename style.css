@@ -1,0 +1,17 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+.heading {
+    font-size: 25px;
+    width : 100%;
+    margin : 0px;
+}
+button {
+    width : 500px;
+    color :rgb(0, 162, 255);
+    background-color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    margin : 15px;
+}
